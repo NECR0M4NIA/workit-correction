@@ -14,3 +14,8 @@
     display: flex;
     justify-content: space-between;
 }
+
+.main-title {
+    color: #FFF;
+    text-align: center;
+}
